@@ -1,0 +1,194 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Built native files
+*.o
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Packaging files
+*.jar
+*.war
+*.ear
+
+# Google App Engine generated files
+*.pyc
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Android Studio
+.gradle/
+build/
+captures/
+.navigation/
+.assetCache/
+.externalNativeBuild/
+.cxx/
+.android/
+app/build/
+
+# NDK
+obj/
+*.hprof
+
+# Eclipse
+.project
+.classpath
+.csettings/
+.settings/
+.libs/
+
+# Other
+*.swp
+.DS_Store
+*.swo
+*~
+.idea/workspace.xml
+.idea/libraries
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/copyright
+.idea/modules.xml
+.idea/assetWizardSettings.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild/
+
+# Proguard folder generated in Android Studio 3.3 and later
+proguard/
+
+# Uncomment the following lines if you have specific files or directories you want to exclude
+# build/
+# .gradle/
+
+# Local configuration file
+local.properties
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Precompiled files
+*.class
+
+# Compiled Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# The build directory for Android Studio 3.6 and later
+.idea/caches/build_file_checksums.ser
+.idea/caches/build_cache/
+
+# Gradle caches
+**/build-cache/
+**/captures/
+
+# Java JAR files
+*.jar
+*.war
+*.ear
+*.zip
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild/
+.cxx/
+
+# Proguard folder generated in Android Studio 3.3 and later
+proguard/
+
+# IntelliJ IDEA config
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries/
+.idea/scopes/
+.idea/copyright/
+.idea/modules.xml
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/caches/
+.idea/codeStyles/
+.idea/codeStylesSettings.xml
+.idea/codeStyleSettings.xml
+.idea/codeStyle.xml
+.idea/inspectionProfiles/
+.idea/markdown_navigator.xml
+.idea/watcherTasks.xml
+.idea/sqlDataSources.xml
+.idea/sqlDataSources.xml
+.idea/dictionaries/
+.idea/caches/
+.idea/compiler.xml
+.idea/consoles/
+.idea/encodings.xml
+.idea/filetypes.xml
+.idea/deployment.xml
+.idea/gradle.xml
+.idea/ivy.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations/
+.idea/mavenProfiles.xml
+.idea/tasks.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
